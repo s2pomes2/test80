@@ -6,7 +6,7 @@ public class Hello2 {
     System.out.println("Hello!");
     System.out.println("Hello,Hello!");
     System.out.println("nono");
-
+    System.out.println("yesyes");
   }
 
 }
